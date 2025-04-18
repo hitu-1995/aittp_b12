@@ -10,6 +10,6 @@ void main()
     printf("Sixth line Added by Dev2 \n");
     printf("Seventh line Added by Dev1 \n");
     printf("Eight line Added by Dev1 \n");
-    printf("Nineth line Added by master \n");
-    
+    printf("Nineth line Added by master \n");    
+    printf("Tenth line Added by Dev2 \n");   
 }
